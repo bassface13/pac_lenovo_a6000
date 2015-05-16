@@ -1,0 +1,23 @@
+[
+    {
+        "remote":       "github",
+        "account":      "bassface13",
+        "repository":   "android_device_lenovo_a6000",
+        "target_path":  "device/lenovo/a6000",
+        "revision":     "master"
+    },
+    {
+        "remote":       "github",
+        "account":      "bassface13",
+        "repository":   "android_kernel_lenovo_a6000",
+        "target_path":  "kernel/lenovo/a6000",
+        "revision":     "master"
+    },
+    {
+        "remote":       "github",
+        "account":      "bassface13",
+        "repository":   "android_vendor_lenovo_a6000",
+        "target_path":  "vendor/lenovo/a6000",
+        "revision":     "master"
+    }
+]
